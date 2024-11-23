@@ -1,0 +1,14 @@
+#value-display {
+    display: flex;
+    position: relative;
+    opacity: 0;
+    margin: 0;
+    padding: 0;
+    color: crimson;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    font-size: 3rem;
+    height: 100vh ;
+
+}
